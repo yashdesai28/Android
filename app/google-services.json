@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "377345207873",
+    "project_id": "wallpaperx-ba8e3",
+    "storage_bucket": "wallpaperx-ba8e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377345207873:android:b99c88e204ebe26126e0c0",
+        "android_client_info": {
+          "package_name": "com.example.wallpaperx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377345207873-mdolopcun5b734fb8m628krh61ebil8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXov4MArKubwX-SGkcL9sSWaS_KdCvb0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377345207873-mdolopcun5b734fb8m628krh61ebil8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
